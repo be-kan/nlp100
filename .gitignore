@@ -1,0 +1,9 @@
+*.txt
+*.mat
+*.bz2
+*.gz
+counter_*
+*.mecab
+dict_*
+*.tab
+*.csv
