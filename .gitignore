@@ -7,3 +7,5 @@ counter_*
 dict_*
 *.tab
 *.csv
+*.json
+*.rdb
